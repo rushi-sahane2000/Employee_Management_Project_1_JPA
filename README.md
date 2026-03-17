@@ -25,7 +25,7 @@ This project provides APIs to perform CRUD operations on employee data.
 
 ---
 ## 📁 Project Structure
-
+```
 src/
  └── main/
      ├── java/
@@ -43,8 +43,7 @@ src/
      │
      └── resources/
           ├── application.properties
-
----
+```
 
 ## 📡 API Endpoints
 
